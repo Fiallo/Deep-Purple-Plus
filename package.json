@@ -1,0 +1,26 @@
+{
+    "name": "deep-purple-plus",
+    "displayName": "Deep Purple+",
+    "description": "You like purple?",
+    "version": "0.0.1",
+    "publisher": "Fiallo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Fiallo/Deep-Purple-Plus.git"
+    },
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Purple+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deep Purple Plus-color-theme.json"
+            }
+        ]
+    }
+}
