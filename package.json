@@ -2,7 +2,8 @@
     "name": "deep-purple-plus",
     "displayName": "Deep Purple+",
     "description": "You like purple?",
-    "version": "0.0.1",
+    "icon": "images/Icon.png",
+    "version": "0.0.2",
     "publisher": "Fiallo",
     "repository": {
         "type": "git",
