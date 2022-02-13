@@ -3,7 +3,7 @@
     "displayName": "Deep Purple+",
     "description": "You like purple?",
     "icon": "images/Icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Fiallo",
     "repository": {
         "type": "git",
